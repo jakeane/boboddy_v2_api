@@ -41,3 +41,5 @@
 /Users/jackkeane/AppDev/Acronym/boboddyv2_api/obj/Debug/net5.0/ref/boboddyv2_api.dll
 /Users/jackkeane/AppDev/Acronym/boboddyv2_api/obj/Debug/net5.0/boboddyv2_api.pdb
 /Users/jackkeane/AppDev/Acronym/boboddyv2_api/obj/Debug/net5.0/boboddyv2_api.genruntimeconfig.cache
+/Users/jackkeane/AppDev/Acronym/boboddyv2_api/bin/Debug/net5.0/Microsoft.AspNetCore.Server.Kestrel.Https.dll
+/Users/jackkeane/AppDev/Acronym/boboddyv2_api/bin/Debug/net5.0/Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll

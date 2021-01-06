@@ -52,6 +52,14 @@
                 "NU1605"
               ]
             },
+            "Microsoft.AspNetCore.Server.IISIntegration": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Server.Kestrel": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[12.0.3, )"
